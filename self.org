@@ -1,17 +1,4 @@
 #+TITLE: self
-* book
-** 高效人士的七个习惯
-* sport
-** swim
- 
-* WAITING sleep
-  - State "WAITING"    from "DONE"       [2015-04-08 Wed 22:15] \\
-    hidhfdkfh
-  - State "DONE"       from "STARTED"    [2015-04-08 Wed 22:15]
-  - State "SOMEDAY"    from "WAITING"    [2015-04-08 Wed 22:11]
-  - State "DONE"       from "STARTED"    [2015-04-08 Wed 22:11]
-  - State "CANCELLED"  from "PROJECT"    [2015-04-08 Wed 22:09]
-  
-* DONE eat
-  CLOSED: [2015-04-08 Wed 22:16]
-  - State "DONE"       from "STARTED"    [2015-04-08 Wed 22:16]
+* just want do
+** open class video 
+*** mit 6.837 cg class 
