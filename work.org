@@ -1,5 +1,9 @@
 * work
 ** TODO package server add svn version
 * bug
-** TODO TowerState move to TowerCtrl
-** TODO TowerCtrl heroFlag 2s bug
+** DONE TowerState move to TowerCtrl
+   CLOSED: [2015-04-10 Fri 18:55]
+   - State "DONE"       from "TODO"       [2015-04-10 Fri 18:55]
+* DONE TowerCtrl heroFlag 2s bug
+   CLOSED: [2015-04-10 Fri 18:55]
+   - State "DONE"       from "TODO"       [2015-04-10 Fri 18:55]
