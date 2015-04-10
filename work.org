@@ -1,4 +1,5 @@
 * work
+** TODO package server add svn version
 * bug
 ** TODO TowerState move to TowerCtrl
 ** TODO TowerCtrl heroFlag 2s bug
