@@ -3,3 +3,6 @@
 ** open class video 
 mit 6.837 cg class 
 	
+* cocos2dx 
+** v3.5 read
+* 
