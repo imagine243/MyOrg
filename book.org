@@ -5,3 +5,20 @@
 * OpenGL SuperBible
 ** 
 * 经济学原理
+* 我所理解的cocos2dx 
+** TODO 第一章参考资料 3,4,5,6,7,8
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO RefPtr 源码
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO c++ c++11 左值 右智
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO 第二章参考资料 1,2,3,4,5,6,7,
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO c++ 四种类型转换
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO C++ 智能指针
+   - State "TODO"       from "TODO"       [2015-04-15 Wed 22:32]
+** TODO cocos2dx 游戏循环 书 50页
+   - State "TODO"       from ""           [2015-04-15 Wed 22:31]
+** TODO c++ lamada表达式
+   - State "TODO"       from ""           [2015-04-15 Wed 22:31]
