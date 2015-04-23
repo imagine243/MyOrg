@@ -22,3 +22,9 @@
    - State "TODO"       from ""           [2015-04-15 Wed 22:31]
 ** TODO c++ lamada表达式
    - State "TODO"       from ""           [2015-04-15 Wed 22:31]
+** TODO cocos2dx randercommand
+   - State "TODO"       from ""           [2015-04-23 Thu 21:39]
+** TODO 第五章纹理
+   - State "TODO"       from ""           [2015-04-23 Thu 22:15]
+** TODO 第六章 颜色混合
+   - State "TODO"       from ""           [2015-04-23 Thu 22:24]
