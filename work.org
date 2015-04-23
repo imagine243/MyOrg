@@ -1,5 +1,7 @@
 * work
-** TODO package server add svn version
+** DONE package server add svn version
+   CLOSED: [2015-04-23 Thu 11:24]
+   - State "DONE"       from "TODO"       [2015-04-23 Thu 11:24]
 * bug
 ** DONE TowerState move to TowerCtrl
    CLOSED: [2015-04-10 Fri 18:55]
