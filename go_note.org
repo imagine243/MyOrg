@@ -6,4 +6,4 @@
 * go 程序库
   main 是入口程序 go build
   packge 是库程序 go install
-
+  go get 获取远程包   go get github.com/astaxie/beedb
